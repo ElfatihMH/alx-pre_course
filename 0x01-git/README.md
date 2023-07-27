@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-My personal commit
+My second readme update
